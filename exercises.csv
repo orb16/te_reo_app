@@ -1,0 +1,8 @@
+﻿id,type,unit,topic,question,prompt,answer,alt_answers,option_a,option_b,option_c,option_d,hint,notes
+1,mcq,3,time,Ko te aha te wā?,Five MINUTES past nine,Rima meneti mai i te iwa karaka,,Rima meneti mai i te iwa karaka,Ono meneti mai i te iwa karaka,Rima meneti mai i te rua karaka,Ono meneti mai i te rua karaka,,
+2,mcq,3,time,Ko te aha te wā?,Quarter past four o'clock,Hauwhā mai i te whā karaka,,Hauwhā mai i te whā karaka,Hauwhā mai i te toru karaka,Hauwhā ki te whā karaka,Hauwhā ki te toru karaka,,
+3,text,3,time,Hauwhā mai i te toru karaka,Translate!,Quarter past three,,,,,,mai i te = after,
+4,text,3,time,Hauwhā ki te toru karaka,Translate!,Quarter to three,,,,,,ki te = before/to,
+5,text,3,time,Hauwhā mai i te whitu karaka,Translate!,Quarter past seven,,,,,,mai i te = after,
+6,text,3,time,Hauwhā ki te whitu karaka,Translate!,Quarter to seven,,,,,,ki te = before/to,
+7,mcq,3,time,Ko te aha te wā?,27 MINUTES past 4,Rua tekau mā whitu meneti mai i te whā karaka,,Rua tekau mā whitu meneti mai i te whā karaka,Toru tekau mā whitu meneti mai i te whā karaka,Rua tekau mā whitu meneti ke te whā karaka,Ono tekau mā whitu meneti ke te rima karaka,,

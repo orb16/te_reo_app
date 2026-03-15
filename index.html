@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Te Reo Practice</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app">
+    <section id="home-screen" class="card">
+      <h1>Te Reo Practice</h1>
+      <p class="subtitle">Practice your course exercises</p>
+
+      <div class="controls">
+        <label for="unit-filter">Unit</label>
+        <select id="unit-filter">
+          <option value="">All units</option>
+        </select>
+
+        <label for="topic-filter">Topic</label>
+        <select id="topic-filter">
+          <option value="">All topics</option>
+        </select>
+      </div>
+
+      <button id="start-btn">Start quiz</button>
+      <p id="home-message" class="message"></p>
+    </section>
+
+    <section id="quiz-screen" class="card hidden">
+      <div class="top-row">
+        <div id="progress"></div>
+        <div id="score-display"></div>
+      </div>
+
+      <h2 id="question-text"></h2>
+      <p id="prompt-text" class="prompt"></p>
+
+      <div id="mcq-options" class="options"></div>
+
+      <div id="text-answer-area" class="hidden">
+        <input id="text-answer" type="text" placeholder="Type your answer" />
+        <button id="check-btn">Check answer</button>
+      </div>
+
+<div class="actions">
+  <button id="hint-btn" class="hidden" type="button">Show hint</button>
+  <button id="next-btn" class="hidden" type="button">Next question</button>
+</div>
+
+<div id="feedback" class="feedback"></div>
+<div id="hint-box" class="hint-box hidden"></div>
+      
+    </section>
+
+    <section id="results-screen" class="card hidden">
+      <h2>Quiz complete</h2>
+      <p id="final-score"></p>
+      <button id="restart-btn">Back to home</button>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
