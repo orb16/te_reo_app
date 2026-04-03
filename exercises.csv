@@ -6,4 +6,4 @@ id,type,unit,topic,question,prompt,answer,alt_answers,option_a,option_b,option_c
 5,text,3,time,Hauwhā mai i te whitu karaka,Translate!,Quarter past seven,,,,,,mai i te = after,
 6,text,3,time,Hauwhā ki te whitu karaka,Translate!,Quarter to seven,,,,,,ki te = before/to,
 7,mcq,3,time,Ko te aha te wā?,27 MINUTES past 4,Rua tekau mā whitu meneti mai i te whā karaka,,Rua tekau mā whitu meneti mai i te whā karaka,Toru tekau mā whitu meneti mai i te whā karaka,Rua tekau mā whitu meneti ke te whā karaka,Ono tekau mā whitu meneti ke te rima karaka,,
-,mcc,3,place,He aha tērā,"A bed, far away",He moenga tērā,,He moenga tērā,He moenga tēnā,He moenga tēnei,He moenga pēpi tērā,tērā = far away,
+,mcq,3,place,He aha tērā,"A bed, far away",He moenga tērā,,He moenga tērā,He moenga tēnā,He moenga tēnei,He moenga pēpi tērā,tērā = far away,
