@@ -7,4 +7,7 @@ id,type,unit,topic,question,prompt,answer,alt_answers,option_a,option_b,option_c
 6,text,3,time,Hauwhā ki te whitu karaka,Translate!,Quarter to seven,,,,,,ki te = before/to,
 7,mcq,3,time,Ko te aha te wā?,27 MINUTES past 4,Rua tekau mā whitu meneti mai i te whā karaka,,Rua tekau mā whitu meneti mai i te whā karaka,Toru tekau mā whitu meneti mai i te whā karaka,Rua tekau mā whitu meneti ke te whā karaka,Ono tekau mā whitu meneti ke te rima karaka,,
 8,mcq,3,place,He aha tērā?,"A bed, far away",He moenga tērā,,He moenga tērā,He moenga tēnā,He moenga tēnei,He moenga pēpi tērā,tērā = far away,
-9,mcq,3,place,He aha ēnei?,"Those are pyjamas", He kākahu moe ēnā,,He kākahu moe ēnā,He kākahu moe ēnei, He kākahu moe tēnā,He kākahu moe tērā , plural,
+9,mcq,3,place,He aha ēnei?,Those are pyjamas,He kākahu moe ēnā,,He kākahu moe ēnā,He kākahu moe ēnei,He kākahu moe tēnā,He kākahu moe tērā , plural,
+10,mcq,3,place,He aha tērā?,"A set of drawers, far away",He toroa tērā,,He toroa tērā,He wātaropa tērā,He toroa tēnei,He wātaropa tēnei,,
+11,mcq,3,place,He aha tēnei?,That is a blanket,He paraikete tēnā,,He paraikete tērā,He hīti tērā,He paraikete tēnā,He hīti tēnā,,
+12,mcq,3,place,He aha tērā?,This is a toothbursh,He paraihe niho tēnei,,He paraihe niho tēnei,He paraihe niho tēnā,He paraihe niho tērā,He paniaku niho tēnei,,
